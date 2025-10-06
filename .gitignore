@@ -1,0 +1,12 @@
+# .gitignore
+
+# Python configuration files with secrets
+config.py
+
+# Bytecode files
+*.pyc
+__pycache__/
+
+# Dependencies
+venv/
+.venv/
